@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 ------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmantaymour&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmantaymour" /> </p>
 As a computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
 
 * 🌍  I'm based in Egypt
