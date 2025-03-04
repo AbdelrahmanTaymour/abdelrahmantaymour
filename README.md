@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Taymour
 ===========================================================================================================================================
 
-Computer Science Student
+Software Engineer
 ------------------------
 
 As a computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
