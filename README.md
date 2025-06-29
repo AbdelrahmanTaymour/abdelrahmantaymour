@@ -7,7 +7,7 @@ As a computer science student pursuing my bachelor's degree, I have a passion fo
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [abdalrahman.m.taymor@gmail.com](mailto:abdalrahman.m.taymor@gmail.com)
-* 🚀  I'm currently working on [Study Center](https://github.com/AbdelrahmanTaymour/Study-Center)
+* 🚀  I'm currently working on [Shortly](https://github.com/AbdelrahmanTaymour/Shortly)
 * 🧠  I'm learning Web Development
 * 🤝  I'm open to collaborating on Projects
 
