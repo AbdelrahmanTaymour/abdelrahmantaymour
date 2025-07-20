@@ -6,7 +6,7 @@ Software Engineer
 ------------------------
 As a computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
 
-* 📫  You can contact me at [abdalrahman.m.taymor@gmail.com](mailto:abdelrahman.m.taymour@gmail.com)
+* 📫  You can contact me at [abdelrahman.m.taymour@gmail.com](mailto:abdelrahman.m.taymour@gmail.com)
 * 🔭 I’m currently working on [Shortly](https://github.com/AbdelrahmanTaymour/Shortly)
 * 🌱 I’m currently learning **Microservices**
 * 🤝  I'm open to collaborating on **Microservices project**
