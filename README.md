@@ -1,10 +1,8 @@
+<h1 align="center">Hi 👋 I'm Abdelrahman Taymour</h1>
 
-Hi 👋 I'm Abdelrahman Taymour
-===========================================================================================================================================
+<h3 align="center">Software Engineer</h3>
 
-Software Engineer
-------------------------
-As a computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
+As a software engineer and computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
 
 * 📫  You can contact me at [abdelrahman.m.taymour@gmail.com](mailto:abdelrahman.m.taymour@gmail.com)
 * 🔭 I’m currently working on [Shortly](https://github.com/AbdelrahmanTaymour/Shortly)
