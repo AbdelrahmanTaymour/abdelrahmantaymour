@@ -2,7 +2,8 @@
 
 <h3 align="center">Software Engineer</h3>
 
-As a software engineer and computer science student pursuing my bachelor's degree, I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
+I'm s recent Computer Science graduate and Full Stack Developer specializing in C#, .NET Core, React with
+TypeScript, and Tailwind CSS. I have a passion for problem-solving and a deep dive into the fundamentals of computer science. Building innovative solutions and learning new technologies are activities that bring joy. There’s always an eagerness to acquire new skills and explore new domains.
 
 * 📫  You can contact me at [abdelrahman.m.taymour@gmail.com](mailto:abdelrahman.m.taymour@gmail.com)
 * 🔭 I’m currently working on [StayHub](https://github.com/AbdelrahmanTaymour/StayHub)
