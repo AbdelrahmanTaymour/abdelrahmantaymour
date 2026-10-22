@@ -28,15 +28,3 @@ As a software engineer and computer science student pursuing my bachelor's degre
 <a href="http://www.github.com/abdelrahmantaymour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmantaymour&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmantaymour&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"  alt="Top Languages"/></p>
-
-### Top Repositories
-<div width="100%" align="center">
-  <a href="https://github.com/AbdelrahmanTaymour/DataStructure_and_Algorithm" align="left">
-    <img 
-      align="left" 
-      width="45%" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelrahmanTaymour&repo=DataStructure_and_Algorithm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
-    />
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
